@@ -27,7 +27,7 @@ window.addEventListener("load", function() //event listener looking for the wind
    const fuelLevelInput = document.querySelector("input[name=fuelLevel]");
    const cargoMassInput = document.querySelector("input[name=cargoMass]");
    
-   function checkInputs(inputs) //function to check inputs values
+   function checkInputs(inputs) //function to validate inputs values
    {
       //console.log(inputs);
 
